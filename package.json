@@ -1,0 +1,19 @@
+{
+  "name": "giveawaybot",
+  "version": "1.0.0",
+  "description": "A bot for the relisted discord that was created for our unique giveaway constraints",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Risu (W.E)",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.83",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  }
+}
